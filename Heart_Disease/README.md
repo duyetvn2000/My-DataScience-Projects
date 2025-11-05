@@ -26,6 +26,7 @@ This database contains **13 attributes** and **1 target variable**. It includes 
 | `target` | Target variable (1 = heart disease, 0 = healthy) | Target |
 
 ## Project Structure 
+```
 ├── app/                         # Streamlit web application
 │   ├── app.py                   
 │
@@ -43,6 +44,7 @@ This database contains **13 attributes** and **1 target variable**. It includes 
 │
 ├── requirements.txt             # List of Python libraries
 └── README.md                    # Project documentation
+```
 
 ## Results
 The results of the models can be found in the **figures** folder.
